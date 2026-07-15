@@ -1,10 +1,10 @@
 bl_info = {
-    "name": "Shantypunk Stockyard v2.1",
+    "name": "Shantypunk Stockyard v2.2",
     "author": "Matt / Shantypunk",
-    "version": (0, 2, 1),
+    "version": (0, 2, 2),
     "blender": (4, 3, 0),
     "location": "View3D > Sidebar > Shantypunk",
-    "description": "Generate deterministic multistory timber platforms with circulation hosts",
+    "description": "Generate circulation-first, multistory timber stockyard platforms",
     "category": "Add Mesh",
 }
 
