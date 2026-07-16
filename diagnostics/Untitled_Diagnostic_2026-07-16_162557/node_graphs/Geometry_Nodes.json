@@ -1,0 +1,91 @@
+{
+  "name": "Geometry Nodes",
+  "type": "GeometryNodeTree",
+  "interface": [
+    {
+      "name": "Geometry",
+      "item_type": "SOCKET",
+      "in_out": "OUTPUT",
+      "socket_type": "NodeSocketGeometry",
+      "identifier": "Socket_1"
+    },
+    {
+      "name": "Geometry",
+      "item_type": "SOCKET",
+      "in_out": "INPUT",
+      "socket_type": "NodeSocketGeometry",
+      "identifier": "Socket_0"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Group Input",
+      "label": "",
+      "type": "NodeGroupInput",
+      "location": [
+        -340.0,
+        0.0
+      ],
+      "dimensions": [
+        140.0,
+        72.0
+      ],
+      "mute": false,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "Geometry",
+          "identifier": "Socket_0",
+          "enabled": true,
+          "linked": true
+        },
+        {
+          "name": "",
+          "identifier": "__extend__",
+          "enabled": true,
+          "linked": false
+        }
+      ]
+    },
+    {
+      "name": "Group Output",
+      "label": "",
+      "type": "NodeGroupOutput",
+      "location": [
+        200.0,
+        0.0
+      ],
+      "dimensions": [
+        140.0,
+        72.0
+      ],
+      "mute": false,
+      "inputs": [
+        {
+          "name": "Geometry",
+          "identifier": "Socket_1",
+          "enabled": true,
+          "linked": true,
+          "default": null
+        },
+        {
+          "name": "",
+          "identifier": "__extend__",
+          "enabled": true,
+          "linked": false,
+          "default": null
+        }
+      ],
+      "outputs": []
+    }
+  ],
+  "links": [
+    {
+      "from_node": "Group Input",
+      "from_socket": "Socket_0",
+      "to_node": "Group Output",
+      "to_socket": "Socket_1",
+      "muted": false
+    }
+  ]
+}

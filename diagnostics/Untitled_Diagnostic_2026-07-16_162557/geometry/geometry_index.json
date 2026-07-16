@@ -1,0 +1,212 @@
+[
+  {
+    "object": "BaseSculpt_Male.lxl",
+    "original": {
+      "file": "geometry/BaseSculpt_Male_lxl_original.json.gz",
+      "vertices": 1284,
+      "edges": 2578,
+      "polygons": 1296
+    },
+    "evaluated": {
+      "file": "geometry/BaseSculpt_Male_lxl_evaluated.json.gz",
+      "vertices": 1284,
+      "edges": 2578,
+      "polygons": 1296
+    }
+  },
+  {
+    "object": "Plane",
+    "original": {
+      "file": "geometry/Plane_original.json.gz",
+      "vertices": 4,
+      "edges": 4,
+      "polygons": 1
+    },
+    "evaluated": {
+      "file": "geometry/Plane_evaluated.json.gz",
+      "vertices": 4,
+      "edges": 4,
+      "polygons": 1
+    }
+  },
+  {
+    "object": "shippingContainer",
+    "original": {
+      "file": "geometry/shippingContainer_original.json.gz",
+      "vertices": 17015,
+      "edges": 32586,
+      "polygons": 15917
+    },
+    "evaluated": {
+      "file": "geometry/shippingContainer_evaluated.json.gz",
+      "vertices": 17015,
+      "edges": 32586,
+      "polygons": 15917
+    }
+  },
+  {
+    "object": "shippingContainer_Short",
+    "original": {
+      "file": "geometry/shippingContainer_Short_original.json.gz",
+      "vertices": 13568,
+      "edges": 25997,
+      "polygons": 12759
+    },
+    "evaluated": {
+      "file": "geometry/shippingContainer_Short_evaluated.json.gz",
+      "vertices": 13568,
+      "edges": 25997,
+      "polygons": 12759
+    }
+  },
+  {
+    "object": "corrugatedPanels_Bent05_2",
+    "original": {
+      "file": "geometry/corrugatedPanels_Bent05_2_original.json.gz",
+      "vertices": 31751,
+      "edges": 62073,
+      "polygons": 30435
+    },
+    "evaluated": {
+      "file": "geometry/corrugatedPanels_Bent05_2_evaluated.json.gz",
+      "vertices": 31751,
+      "edges": 62073,
+      "polygons": 30435
+    }
+  },
+  {
+    "object": "deerStand_Merged",
+    "original": {
+      "file": "geometry/deerStand_Merged_original.json.gz",
+      "vertices": 3550,
+      "edges": 6541,
+      "polygons": 3179
+    },
+    "evaluated": {
+      "file": "geometry/deerStand_Merged_evaluated.json.gz",
+      "vertices": 3550,
+      "edges": 6541,
+      "polygons": 3179
+    }
+  },
+  {
+    "object": "Mesh_3",
+    "original": {
+      "file": "geometry/Mesh_3_original.json.gz",
+      "vertices": 1349,
+      "edges": 2401,
+      "polygons": 1185
+    },
+    "evaluated": {
+      "file": "geometry/Mesh_3_evaluated.json.gz",
+      "vertices": 1349,
+      "edges": 2401,
+      "polygons": 1185
+    }
+  },
+  {
+    "object": "Mesh_19",
+    "original": {
+      "file": "geometry/Mesh_19_original.json.gz",
+      "vertices": 56,
+      "edges": 96,
+      "polygons": 48
+    },
+    "evaluated": {
+      "file": "geometry/Mesh_19_evaluated.json.gz",
+      "vertices": 56,
+      "edges": 96,
+      "polygons": 48
+    }
+  },
+  {
+    "object": "Mesh_61",
+    "original": {
+      "file": "geometry/Mesh_61_original.json.gz",
+      "vertices": 34341,
+      "edges": 66613,
+      "polygons": 32612
+    },
+    "evaluated": {
+      "file": "geometry/Mesh_61_evaluated.json.gz",
+      "vertices": 34341,
+      "edges": 66613,
+      "polygons": 32612
+    }
+  },
+  {
+    "object": "Mesh_153",
+    "original": {
+      "file": "geometry/Mesh_153_original.json.gz",
+      "vertices": 24,
+      "edges": 40,
+      "polygons": 20
+    },
+    "evaluated": {
+      "file": "geometry/Mesh_153_evaluated.json.gz",
+      "vertices": 24,
+      "edges": 40,
+      "polygons": 20
+    }
+  },
+  {
+    "object": "shippingContainer.001",
+    "original": {
+      "file": "geometry/shippingContainer_001_original.json.gz",
+      "vertices": 17015,
+      "edges": 32586,
+      "polygons": 15917
+    },
+    "evaluated": {
+      "file": "geometry/shippingContainer_001_evaluated.json.gz",
+      "vertices": 17015,
+      "edges": 32586,
+      "polygons": 15917
+    }
+  },
+  {
+    "object": "shippingContainer.002",
+    "original": {
+      "file": "geometry/shippingContainer_002_original.json.gz",
+      "vertices": 17015,
+      "edges": 32586,
+      "polygons": 15917
+    },
+    "evaluated": {
+      "file": "geometry/shippingContainer_002_evaluated.json.gz",
+      "vertices": 17015,
+      "edges": 32586,
+      "polygons": 15917
+    }
+  },
+  {
+    "object": "Plane.001",
+    "original": {
+      "file": "geometry/Plane_001_original.json.gz",
+      "vertices": 14,
+      "edges": 19,
+      "polygons": 6
+    },
+    "evaluated": {
+      "file": "geometry/Plane_001_evaluated.json.gz",
+      "vertices": 14,
+      "edges": 19,
+      "polygons": 6
+    }
+  },
+  {
+    "object": "shippingContainer_Short.001",
+    "original": {
+      "file": "geometry/shippingContainer_Short_001_original.json.gz",
+      "vertices": 13568,
+      "edges": 25997,
+      "polygons": 12759
+    },
+    "evaluated": {
+      "file": "geometry/shippingContainer_Short_001_evaluated.json.gz",
+      "vertices": 13568,
+      "edges": 25997,
+      "polygons": 12759
+    }
+  }
+]

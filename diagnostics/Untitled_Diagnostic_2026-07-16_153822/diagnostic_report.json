@@ -1,0 +1,636 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-16T15:38:22.103454-04:00",
+  "summary": {
+    "ERROR": 0,
+    "WARNING": 12,
+    "INFO": 90
+  },
+  "issues": [
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "Light",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "Camera",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_01  TIMBER STOCK",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_02  SHEET GOODS",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_03  WALL MODULES",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_04  MASONRY + FOUNDATIONS",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_05  SALVAGE + CONTAINERS",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_06  STAIRS + CATWALKS",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_07  INDUSTRIAL STRUCTURE",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_08  FACADE DETAILS",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_09  UTILITIES",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_10  LIGHTING",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_11  WATERFRONT + FLOATING",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_12  CLOTH + FLEXIBLE",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_13  ROOFING",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_14  SITE + CLUTTER",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SPK_STOCKYARD_CAMERA",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SPK_STOCKYARD_KEY",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_SHEET_CORRUGATED_3X8",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 194
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_SHEET_CORRUGATED_3X10",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 194
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_SHEET_CORRUGATED_WIDE_4X8",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 196
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_SHEET_CORRUGATED_SMALL_PATCH",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 254
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_CLOTH_TARP_DOOR",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 48
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_CLOTH_TARP_WALL",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 64
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_CLOTH_CANVAS_SHADE",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 60
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_CLOTH_LAUNDRY_SHEET",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 44
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_CLOTH_BILLBOARD_VINYL",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 68
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_ROOF_CORR_ROOF_3X8",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 194
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "SPK_ROOF_CORR_ROOF_3X12",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 194
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "LABEL_HERO SHELF  —  FIRST SHACK KIT",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "NON_MANIFOLD",
+      "severity": "WARNING",
+      "object": "VIEW_SPK_SHEET_CORRUGATED_3X8",
+      "message": "Mesh contains non-manifold boundary or multi-face edges.",
+      "details": 194
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L00_A_E",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L00_B_S",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L01_A_E",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L01_B_S",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L02_A_E",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L02_B_S",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L03_A_E",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_DOOR_BRIDGE_L03_B_S",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L00_P0_S0_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L00_P0_S0_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L00_P0_S0_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L00_P0_S0_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_000",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_001",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_002",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_003",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_004",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_005",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_006",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L00_P0_S1_007",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L00_P0_S1_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L00_P0_S1_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L00_P0_S1_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L00_P0_S1_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_000",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_001",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_002",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_003",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_004",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_005",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_006",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S0_007",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L01_P0_S0_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L01_P0_S0_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L01_P0_S0_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L01_P0_S0_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_000",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_001",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_002",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_003",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_004",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_005",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_006",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L01_P0_S1_007",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L01_P0_S1_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L01_P0_S1_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L01_P0_S1_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L01_P0_S1_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L02_P0_S0_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L02_P0_S0_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L02_P0_S0_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L02_P0_S0_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_000",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_001",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_002",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_003",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_004",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_005",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_006",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TREAD_L02_P0_S1_007",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L02_P0_S1_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_STRINGER_L02_P0_S1_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L02_P0_S1_L",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_RAIL_FLIGHT_L02_P0_S1_R",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TOWER_BRACE_W_L00",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TOWER_BRACE_E_L00",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TOWER_BRACE_W_L01",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TOWER_BRACE_E_L01",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TOWER_BRACE_W_L02",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "UNAPPLIED_TRANSFORM",
+      "severity": "INFO",
+      "object": "SYV25_TOWER_BRACE_E_L02",
+      "message": "Object has unapplied rotation or scale."
+    },
+    {
+      "code": "OVERLAP_CHECK_SKIPPED",
+      "severity": "INFO",
+      "object": null,
+      "message": "Bounding-box overlap test skipped for a large scene.",
+      "details": 417
+    }
+  ]
+}
