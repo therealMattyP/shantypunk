@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-16T16:25:57.667255-04:00",
+  "summary": {
+    "ERROR": 2,
+    "WARNING": 8,
+    "INFO": 15
+  },
+  "issues": [
+    {
+      "code": "MISSING_MATERIAL",
+      "severity": "INFO",
+      "object": "Plane",
+      "message": "Mesh has no material slots.",
+      "source": "core"
+    },
+    {
+      "code": "OPEN_SURFACE",
+      "severity": "INFO",
+      "object": "Plane",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 4,
+        "ratio": 1.0
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "shippingContainer",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 1236,
+        "ratio": 0.03793039955809243
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "shippingContainer_Short",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 690,
+        "ratio": 0.02654152402200254
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "corrugatedPanels_Bent05_2",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 1458,
+        "ratio": 0.0234884732492388
+      }
+    },
+    {
+      "code": "INCONSISTENT_NORMALS",
+      "severity": "ERROR",
+      "object": "deerStand_Merged",
+      "message": "Adjacent faces use inconsistent winding.",
+      "source": "core",
+      "details": 488
+    },
+    {
+      "code": "MULTI_FACE_EDGE",
+      "severity": "ERROR",
+      "object": "Mesh_3",
+      "message": "Mesh contains edges shared by more than two faces.",
+      "source": "core",
+      "details": 1
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "Mesh_3",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 64,
+        "ratio": 0.026655560183256977
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "Mesh_61",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 2605,
+        "ratio": 0.039106480716977164
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "shippingContainer.001",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 1236,
+        "ratio": 0.03793039955809243
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "shippingContainer.002",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 1236,
+        "ratio": 0.03793039955809243
+      }
+    },
+    {
+      "code": "MISSING_MATERIAL",
+      "severity": "INFO",
+      "object": "Plane.001",
+      "message": "Mesh has no material slots.",
+      "source": "core"
+    },
+    {
+      "code": "OPEN_SURFACE",
+      "severity": "INFO",
+      "object": "Plane.001",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 14,
+        "ratio": 0.7368421052631579
+      }
+    },
+    {
+      "code": "HOLE_BOUNDARY",
+      "severity": "WARNING",
+      "object": "shippingContainer_Short.001",
+      "message": "Mesh has boundary edges; classified using boundary density.",
+      "source": "core",
+      "details": {
+        "edges": 690,
+        "ratio": 0.02654152402200254
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "Plane.001",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "corrugatedPanels_Bent05_2"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "shippingContainer",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "shippingContainer.001",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "shippingContainer.001",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "shippingContainer"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "shippingContainer.002",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "shippingContainer_Short",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "shippingContainer_Short.001",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "Plane",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "BaseSculpt_Male.lxl",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "BaseSculpt_Male.lxl",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane"
+      }
+    },
+    {
+      "code": "BOUNDS_OVERLAP",
+      "severity": "INFO",
+      "object": "deerStand_Merged",
+      "message": "World-space bounding boxes overlap.",
+      "source": "core",
+      "details": {
+        "other": "Plane.001"
+      }
+    }
+  ]
+}

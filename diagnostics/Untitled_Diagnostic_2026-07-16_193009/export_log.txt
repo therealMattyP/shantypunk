@@ -1,0 +1,24 @@
+Blender Scene Inspector 0.3.0
+Started: 2026-07-16T19:30:09.968262-04:00
+WARNING: source blend file is unsaved
+Exported Level 1: scene_manifest.json
+Exported 0 node graphs
+Exported Level 2: diagnostic_report.json
+Exported Level 3 geometry files
+Rendered image: current_viewport.png
+Rendered image: perspective.png
+Rendered image: top.png
+Rendered image: front.png
+Rendered image: side.png
+Rendered analysis pass: wireframe.png
+Rendered analysis pass: face_orientation.png
+Rendered analysis pass: world_space_normals.png
+Rendered analysis pass: object_space_normals.png
+Rendered analysis pass: true_normals.png
+Rendered analysis pass: position_preview.png
+Rendered analysis pass: uv_preview.png
+Rendered analysis pass: object_index_preview.png
+Rendered analysis pass: material_index_preview.png
+Rendered analysis pass: semantic_colors.png
+Rendered multilayer EXR: Position, Normal, Vector, UV, Object Index, Material Index
+Completed: 2026-07-16T19:30:17.097958-04:00

@@ -1,0 +1,977 @@
+{
+  "schema_version": 1,
+  "addon_version": "0.3.0",
+  "generated_at": "2026-07-16T16:25:57.248398-04:00",
+  "blender_version": "5.2.0 LTS",
+  "file": {
+    "name": "",
+    "path": "",
+    "saved": false
+  },
+  "scene": "Scene",
+  "unit_system": "METRIC",
+  "collection_hierarchy": {
+    "name": "Scene Collection",
+    "objects": [],
+    "children": [
+      {
+        "name": "Collection",
+        "objects": [
+          "Light",
+          "Camera",
+          "BaseSculpt_Male.lxl",
+          "Plane",
+          "shippingContainer",
+          "shippingContainer_Short",
+          "corrugatedPanels_Bent05_2",
+          "deerStand_Merged",
+          "Mesh_3",
+          "Mesh_19",
+          "Mesh_61",
+          "Mesh_153",
+          "shippingContainer.001",
+          "shippingContainer.002",
+          "Plane.001",
+          "shippingContainer_Short.001"
+        ],
+        "children": []
+      }
+    ]
+  },
+  "objects": [
+    {
+      "name": "Light",
+      "type": "LIGHT",
+      "data_name": "Light",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        4.076245307922363,
+        1.0054539442062378,
+        5.903861999511719
+      ],
+      "rotation_euler": [
+        0.6503279805183411,
+        0.055217113345861435,
+        1.8663908243179321
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_bounding_box": {
+        "min": [
+          4.076245307922363,
+          1.0054539442062378,
+          5.903861999511719
+        ],
+        "max": [
+          4.076245307922363,
+          1.0054539442062378,
+          5.903861999511719
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": null,
+      "materials": [],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "data_name": "Camera",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        7.358891487121582,
+        -6.925790786743164,
+        4.958309173583984
+      ],
+      "rotation_euler": [
+        1.1093189716339111,
+        0.0,
+        0.8149281740188599
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "world_bounding_box": {
+        "min": [
+          7.358891487121582,
+          -6.925790786743164,
+          4.958309173583984
+        ],
+        "max": [
+          7.358891487121582,
+          -6.925790786743164,
+          4.958309173583984
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": null,
+      "materials": [],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "BaseSculpt_Male.lxl",
+      "type": "MESH",
+      "data_name": "BaseSculpt_Male.lxl",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.3437700271606445,
+        1.8238966464996338,
+        0.34046298265457153
+      ],
+      "world_bounding_box": {
+        "min": [
+          -0.6718850135803223,
+          -0.19943200051784515,
+          -0.01270661037415266
+        ],
+        "max": [
+          0.6718850135803223,
+          0.14103113114833832,
+          1.8111900091171265
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 1284,
+        "edges": 2578,
+        "polygons": 1296,
+        "triangles": 2564
+      },
+      "materials": [
+        "Default",
+        "blinn1SG"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Plane",
+      "type": "MESH",
+      "data_name": "Plane",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.0,
+        2.0,
+        0.0
+      ],
+      "world_bounding_box": {
+        "min": [
+          -1.0,
+          -1.0,
+          0.0
+        ],
+        "max": [
+          1.0,
+          1.0,
+          0.0
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 4,
+        "edges": 4,
+        "polygons": 1,
+        "triangles": 2
+      },
+      "materials": [],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "shippingContainer",
+      "type": "MESH",
+      "data_name": "shippingContainer",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        7.51283073425293,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        11.72737979888916,
+        2.5983901023864746,
+        2.453160047531128
+      ],
+      "world_bounding_box": {
+        "min": [
+          -5.86368989944458,
+          6.286250591278076,
+          -9.260421762746773e-08
+        ],
+        "max": [
+          5.86368989944458,
+          8.739411354064941,
+          2.5983901023864746
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 17015,
+        "edges": 32586,
+        "polygons": 15917,
+        "triangles": 32102
+      },
+      "materials": [
+        "shippingContainer_Door",
+        "shippingContainer_Long"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "shippingContainer_Short",
+      "type": "MESH",
+      "data_name": "shippingContainer_Short",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        19.086143493652344,
+        5.178027629852295
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        6.164780139923096,
+        2.5983901023864746,
+        2.4486000537872314
+      ],
+      "world_bounding_box": {
+        "min": [
+          -1.2243003845214844,
+          16.003753662109375,
+          5.178027629852295
+        ],
+        "max": [
+          1.2243001461029053,
+          22.168533325195312,
+          7.7764177322387695
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 13568,
+        "edges": 25997,
+        "polygons": 12759,
+        "triangles": 25786
+      },
+      "materials": [
+        "shippingContainerShort_Door",
+        "shippingContainer_Short"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "corrugatedPanels_Bent05_2",
+      "type": "MESH",
+      "data_name": "corrugatedPanels_Bent05_2",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        -7.607674598693848,
+        11.271852493286133,
+        -1.1920928955078125e-07
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        4.456600189208984,
+        5.59443998336792,
+        3.780060052871704
+      ],
+      "world_bounding_box": {
+        "min": [
+          -9.83597469329834,
+          9.38182258605957,
+          -2.619025849526224e-07
+        ],
+        "max": [
+          -5.3793745040893555,
+          13.161883354187012,
+          5.59443998336792
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 31751,
+        "edges": 62073,
+        "polygons": 30435,
+        "triangles": 61818
+      },
+      "materials": [
+        "wood_Standin",
+        "metal_Shredded_001",
+        "cloth_StandinWhite",
+        "cloth_Standin02",
+        "cloth_StandinGreen",
+        "cloth_Standin03",
+        "corrugatedPanels_Bent04",
+        "cloth_Standin"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "deerStand_Merged",
+      "type": "MESH",
+      "data_name": "deerStand_Merged",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        6.759915351867676,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.035680055618286,
+        2.1695098876953125,
+        2.2411999702453613
+      ],
+      "world_bounding_box": {
+        "min": [
+          5.742075443267822,
+          -1.1205999851226807,
+          -8.460294509404775e-08
+        ],
+        "max": [
+          7.777755260467529,
+          1.1206001043319702,
+          2.1695098876953125
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 3550,
+        "edges": 6541,
+        "polygons": 3179,
+        "triangles": 6724
+      },
+      "materials": [
+        "joists",
+        "deerBlind01",
+        "deerBlind_Door",
+        "deerBlind02",
+        "deerBlindRoof",
+        "deerBlindFloor"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Mesh_3",
+      "type": "MESH",
+      "data_name": "Mesh_3",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        42.67684555053711,
+        20.734790802001953,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        24.637800216674805,
+        10.328300476074219,
+        8.205479621887207
+      ],
+      "world_bounding_box": {
+        "min": [
+          30.35794448852539,
+          16.632051467895508,
+          -3.0974825904195313e-07
+        ],
+        "max": [
+          54.99574661254883,
+          24.83753204345703,
+          10.328300476074219
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 1349,
+        "edges": 2401,
+        "polygons": 1185,
+        "triangles": 2370
+      },
+      "materials": [
+        "Default.001"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Mesh_19",
+      "type": "MESH",
+      "data_name": "Mesh_19",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        13.635316848754883,
+        7.740511417388916,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        9.467840194702148,
+        4.229100227355957,
+        7.348800182342529
+      ],
+      "world_bounding_box": {
+        "min": [
+          8.901396751403809,
+          4.0661115646362305,
+          -2.774094980395603e-07
+        ],
+        "max": [
+          18.36923599243164,
+          11.414912223815918,
+          4.229100704193115
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 56,
+        "edges": 96,
+        "polygons": 48,
+        "triangles": 96
+      },
+      "materials": [
+        "Default.002"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Mesh_61",
+      "type": "MESH",
+      "data_name": "Mesh_61",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        -8.735224723815918,
+        -11.585750579833984,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        5.172520160675049,
+        3.534250020980835,
+        3.4011600017547607
+      ],
+      "world_bounding_box": {
+        "min": [
+          -11.321484565734863,
+          -13.286330223083496,
+          -1.2839022645039222e-07
+        ],
+        "max": [
+          -6.148964881896973,
+          -9.885169982910156,
+          3.534250259399414
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 34341,
+        "edges": 66613,
+        "polygons": 32612,
+        "triangles": 65397
+      },
+      "materials": [
+        "wood_Standin.001",
+        "corrugatedPanels_Bent08",
+        "deerBlind_Door.001",
+        "corrugatedPanels_Bent07",
+        "corrugatedPanels_Flat03",
+        "corrugatedPanels_Bent01",
+        "cloth_StandinWhite.001",
+        "corrugated_Metal",
+        "standin_Cardboard"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Mesh_153",
+      "type": "MESH",
+      "data_name": "Mesh_153",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        -23.814125061035156,
+        9.853827476501465,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        4.768439769744873,
+        3.2087199687957764,
+        4.978720188140869
+      ],
+      "world_bounding_box": {
+        "min": [
+          -26.303485870361328,
+          7.469607353210449,
+          -1.8794146683376312e-07
+        ],
+        "max": [
+          -21.324764251708984,
+          12.23804759979248,
+          3.2087202072143555
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 24,
+        "edges": 40,
+        "polygons": 20,
+        "triangles": 40
+      },
+      "materials": [
+        "Default.003"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "shippingContainer.001",
+      "type": "MESH",
+      "data_name": "shippingContainer.001",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        7.51283073425293,
+        0.0
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        11.72737979888916,
+        2.5983901023864746,
+        2.453160047531128
+      ],
+      "world_bounding_box": {
+        "min": [
+          -1.2265805006027222,
+          1.6491408348083496,
+          -9.260421762746773e-08
+        ],
+        "max": [
+          1.226580262184143,
+          13.376521110534668,
+          2.5983901023864746
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 17015,
+        "edges": 32586,
+        "polygons": 15917,
+        "triangles": 32102
+      },
+      "materials": [
+        "shippingContainer_Door",
+        "shippingContainer_Long"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "shippingContainer.002",
+      "type": "MESH",
+      "data_name": "shippingContainer.002",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        7.51283073425293,
+        2.6378839015960693
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        11.72737979888916,
+        2.5983901023864746,
+        2.453160047531128
+      ],
+      "world_bounding_box": {
+        "min": [
+          -1.2265805006027222,
+          1.6491408348083496,
+          2.6378839015960693
+        ],
+        "max": [
+          1.226580262184143,
+          13.376521110534668,
+          5.236274242401123
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 17015,
+        "edges": 32586,
+        "polygons": 15917,
+        "triangles": 32102
+      },
+      "materials": [
+        "shippingContainer_Door",
+        "shippingContainer_Long"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "Plane.001",
+      "type": "MESH",
+      "data_name": "Plane.001",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        14.868602752685547,
+        32.44269943237305,
+        13.061735153198242
+      ],
+      "world_bounding_box": {
+        "min": [
+          -7.183088302612305,
+          -1.0,
+          0.0
+        ],
+        "max": [
+          7.685514450073242,
+          31.442699432373047,
+          13.061735153198242
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": false,
+      "mesh_statistics": {
+        "vertices": 14,
+        "edges": 19,
+        "polygons": 6,
+        "triangles": 12
+      },
+      "materials": [],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    },
+    {
+      "name": "shippingContainer_Short.001",
+      "type": "MESH",
+      "data_name": "shippingContainer_Short.001",
+      "parent": null,
+      "collections": [
+        "Collection"
+      ],
+      "location": [
+        0.0,
+        27.90420913696289,
+        8.334562301635742
+      ],
+      "rotation_euler": [
+        1.570796251296997,
+        -0.0,
+        1.5707963705062866
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        6.164780139923096,
+        2.5983901023864746,
+        2.4486000537872314
+      ],
+      "world_bounding_box": {
+        "min": [
+          -1.2243003845214844,
+          24.821819305419922,
+          8.334562301635742
+        ],
+        "max": [
+          1.2243001461029053,
+          30.98659896850586,
+          10.932952880859375
+        ]
+      },
+      "hide_viewport": false,
+      "hide_render": false,
+      "visible": true,
+      "selected": true,
+      "mesh_statistics": {
+        "vertices": 13568,
+        "edges": 25997,
+        "polygons": 12759,
+        "triangles": 25786
+      },
+      "materials": [
+        "shippingContainerShort_Door",
+        "shippingContainer_Short"
+      ],
+      "modifiers": [],
+      "constraints": [],
+      "custom_properties": {}
+    }
+  ],
+  "cameras": [
+    "Camera"
+  ],
+  "lights": [
+    "Light"
+  ],
+  "external_dependencies": [
+    {
+      "kind": "LIBRARY",
+      "name": "copybuffer.blend",
+      "path": "C:\\Users\\matth\\AppData\\Local\\Temp\\copybuffer.blend",
+      "exists": true
+    }
+  ]
+}

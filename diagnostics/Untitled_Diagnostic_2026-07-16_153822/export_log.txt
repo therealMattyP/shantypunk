@@ -1,0 +1,12 @@
+Blender Scene Inspector 0.1.0
+Started: 2026-07-16T15:38:22.033969-04:00
+Exported Level 1: scene_manifest.json
+Exported Level 2: diagnostic_report.json
+Exported Level 3 geometry files
+Rendered image: current_viewport.png
+Rendered image: perspective.png
+Rendered image: top.png
+Rendered image: front.png
+Rendered image: side.png
+Rendered image: wireframe.png
+Completed: 2026-07-16T15:38:26.106847-04:00
