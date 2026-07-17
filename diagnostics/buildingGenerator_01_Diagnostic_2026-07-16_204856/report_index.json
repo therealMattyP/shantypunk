@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "addon_version": "0.3.0",
+  "created_at": "2026-07-16T20:49:01.416762-04:00",
+  "source_blend": "D:\\Documents\\GitHub\\shantypunk\\diagnostics\\buildingGenerator_01.blend",
+  "enabled_levels": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "contents": [
+    "scene_manifest.json",
+    "diagnostic_report.json",
+    "geometry/geometry_index.json",
+    "images/"
+  ]
+}
